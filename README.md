@@ -41,13 +41,13 @@ router ospf 1
 Commands used to confirm the network was working correctly:
 
 - `show ip ospf neighbor` — confirms OSPF adjacencies formed between routers.
-![OSPF Neighbors](screenshots/ospf-neighbors.png)
+![OSPF Neighbors](Screenshot 4.png)
 
 - `show ip route` — confirms routes learned from other areas via OSPF.
-![Routing Table](screenshots/routing-table.png)
+![Routing Table](Screenshot 3.png)
 
 - `ping` between PCs and servers across areas — confirms end-to-end connectivity.
-![Ping Test](screenshots/ping-test.png)
+![Ping Test](Screenshot 2.png)
 
 ## Tools Used
 - Cisco Packet Tracer
