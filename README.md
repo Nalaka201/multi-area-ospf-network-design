@@ -8,7 +8,7 @@ dedicated servers — modeling a small enterprise network with segmented departm
 services area.
 
 ## Topology Diagram
-![Network Topology](screenshots/screenshot1.png)
+![Network Topology](Screenshot1.png)
 
 - **Area 0 (Backbone):** Router1, Router3, Router4 form the OSPF backbone.
 - **Area 10:** Switch + 3 PCs (department network).
